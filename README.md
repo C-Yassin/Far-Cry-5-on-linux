@@ -18,3 +18,6 @@ Launch it and complete installation normally
 # 🐞 Common Errors & Fixes
 🟥 Missing isskin.dll
 Run the following command: ```winetricks vcrun6sp6```
+
+
+# ANY PROBLEMS TELL ME!
