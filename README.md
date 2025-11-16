@@ -1,9 +1,20 @@
-# Far-Cry-5-on-linux
-How to install Far Cry 5 on linux [CachyOS]
-get your far cry 5 [ex. torrent byxatab]
-run the installer using HEROIC LAUNCHER!
-ERRORS & FIXES
--[MISSING] isskin.dll [FIX] winetricks vcrun6sp6 in terminal
+# Far Cry 5 on Linux (CachyOS Guide)
 
-EXTRA PERFORMANCE 
-The game works better with stable FPS, i suggest also using sched-ext and looking into it more for performance.
+This guide explains how to install and run Far Cry 5 on Linux (CachyOS) with the best performance and common fixes.
+
+# 📥 Installation
+
+Get your Far Cry 5 copy
+(Example: Byxatab repack, torrent, etc.)
+
+Run the installer using Heroic Launcher
+
+Open Heroic
+
+Add the installer as a “Non-native game”
+
+Launch it and complete installation normally
+
+# 🐞 Common Errors & Fixes
+🟥 Missing isskin.dll
+Run the following command: ```winetricks vcrun6sp6```
